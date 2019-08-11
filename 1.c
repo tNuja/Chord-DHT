@@ -889,8 +889,7 @@ void fixFinger()
 void getInput()
 {
 	char command[101], temp[101];
-	printf("NOTE: This is CSP-701 Software System Laboratory\n");
-	printf("Assignment-2 Distributed Hash Table(Chord)\n");
+	printf("Distributed Hash Table(Chord)\n");
 	printf("Type 'help' for commands\n\n");
 	while(1)
 	{
